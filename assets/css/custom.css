@@ -1,0 +1,14 @@
+.image img {
+    display: block;
+    border-radius: 100%;
+    text-align: right;
+}
+
+.image {
+    padding-left: 35%;
+
+}
+
+.intro {
+    padding-top: 10%;
+}
